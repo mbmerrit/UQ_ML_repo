@@ -10,5 +10,5 @@
 
 #### **My Publications:**
 1. [Multiscale Global Sensitivity Analysis for Stochastic Chemical Systems](https://epubs.siam.org/doi/abs/10.1137/20M1323989)
-2. [Hybrid Multilevel Monte Carlo Polynomial Chaos Expansion Method for Global Sensitivity Analysis](https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/summerprog.cfm)
+2. [Hybrid Multilevel Monte Carlo Polynomial Chaos Expansion Method for Global Sensitivity Analysis](https://cs.sandia.gov/summerproceedings/CCR2020.html)
 3. [Pre-print of Rare Event Simulation article](https://arxiv.org/abs/2110.13974)
