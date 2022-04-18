@@ -4,9 +4,9 @@
 
 **Contents:** Using Jupyter notebooks, I present code and results from a variety of research projects. Feel free to take a look around!
 
-*I am currently completing my PhD in Applied Math at NC State University, under the direction of Dr. Pierre Gremaud and Dr. Alen Alexanderian.*
+*I completed my PhD in Applied Math at NC State University in May 2022, under the direction of Dr. Pierre Gremaud and Dr. Alen Alexanderian.*
 
-*I am also a contractor at Sandia National Labs in the Department of Optimization and Uncertainty Quantification.*
+*I currently work as a Research Scientist in machine learning at Teledyne's Intelligent Systems Lab. I have also worked as a contractor at Sandia National Labs in the Department of Optimization and Uncertainty Quantification.*
 
 #### **My Publications:**
 1. [Multiscale Global Sensitivity Analysis for Stochastic Chemical Systems](https://epubs.siam.org/doi/abs/10.1137/20M1323989)
